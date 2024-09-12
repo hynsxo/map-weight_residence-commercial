@@ -99,3 +99,7 @@ map weight_residence&amp;commercial, python
 
 - 건축물 용도별 안전도
 <img width="705" alt="danger" src="https://github.com/user-attachments/assets/e4984b10-20eb-485e-bb28-91ebe5667473">
+
+
+- 최종 가중치 산정 식
+  <img width="509" alt="func" src="https://github.com/user-attachments/assets/b497cf99-88d1-4028-b848-f07cb870f179">
